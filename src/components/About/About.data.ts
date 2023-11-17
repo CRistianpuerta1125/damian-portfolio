@@ -15,14 +15,14 @@ export const dataCounter = [
   },
   {
     id: 2,
-    endCounter: 50,
+    endCounter: 40,
     text: "Proyectos finalizados",
     lineRight: true,
     lineRightMobile: true,
   },
   {
     id: 3,
-    endCounter: 30,
+    endCounter: 20,
     text: "Premios ganadores",
     lineRight: false,
     lineRightMobile: false,
@@ -49,7 +49,7 @@ export const dataAboutSkills = [
     text: "Experiencia",
     skills: [
       {
-        title: "I.R.T",
+        title: "IRTI",
         date: "2021",
       },
       {
