@@ -10,7 +10,7 @@ export const testimonialsData = [
     id: 1,
     name: "Juan Palomo",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "Es muy bueno en lo que hace todo sale a la perfeccion se arreglan los bugs que se puedan presentar en el camino de desarrollo final",
     image: "profile2.png",
   },
   {
