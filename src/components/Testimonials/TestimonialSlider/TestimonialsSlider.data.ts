@@ -17,7 +17,7 @@ export const testimonialsData = [
     id: 2,
     name: "Juan Palomo",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "Demostrando habilidades destacadas en desarrollo, cada proyecto es ejecutado con precisión para asegurar resultados sin problemas.",
     image: "profile3.png",
   },
   {
