@@ -8,23 +8,23 @@ export const testimonialsData = [
   },
   {
     id: 1,
-    name: "Juan Palomo",
+    name: "Felipe Vaquero",
     testimonial:
       "Es muy bueno en lo que hace todo sale a la perfeccion se arreglan los bugs que se puedan presentar en el camino de desarrollo final",
     image: "profile2.png",
   },
   {
     id: 2,
-    name: "Juan Palomo",
+    name: "Felipe Garzon",
     testimonial:
       "Demostrando habilidades destacadas en desarrollo, cada proyecto es ejecutado con precisión para asegurar resultados sin problemas.",
     image: "profile3.png",
   },
   {
     id: 3,
-    name: "Juan Palomo",
+    name: "Manuel Riaño",
     testimonial:
-      "Lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vulputate enim urna, nec fringilla mauris mattis a. In mollis vitae velit ac vehicula.",
+      "Se abordan de manera eficiente cualquier inconveniente o bug que pueda surgir durante el camino del desarrollo hasta su fase final.",
     image: "profile4.png",
   },
 ];
