@@ -8,7 +8,7 @@ export const testimonialsData = [
   },
   {
     id: 1,
-    name: "Valentina Ramirez",
+    name: "Maria Ramirez",
     testimonial:
       "Lorem Lorem ipsum dolor sit , consectetur adipiscing elit.  a.",
     image: "profile2.png",
