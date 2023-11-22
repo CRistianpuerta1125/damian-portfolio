@@ -10,7 +10,7 @@ export const testimonialsData = [
     id: 1,
     name: "Maria Ramirez",
     testimonial:
-      "Lorem Lorem ipsum dolor sit , ",
+      "El saber programar demasiado bienpor supuesto todo bajo supervisión, ",
     image: "profile2.png",
   },
   {
