@@ -15,14 +15,14 @@ export const dataCounter = [
   },
   {
     id: 2,
-    endCounter: 40,
+    endCounter: 30,
     text: "Proyectos finalizados",
     lineRight: true,
     lineRightMobile: true,
   },
   {
     id: 3,
-    endCounter: 20,
+    endCounter: 10,
     text: "Premios ganadores",
     lineRight: false,
     lineRightMobile: false,
