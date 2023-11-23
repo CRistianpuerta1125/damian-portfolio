@@ -10,7 +10,7 @@ export const testimonialsData = [
     id: 1,
     name: "Maria Ramirez",
     testimonial:
-      "El saber programar demasiado bienpor supuesto todo bajo supervisión, todo de acuerdo a lo que se pide",
+      "El saber programar demasiado bien por supuesto todo bajo supervisión, todo de acuerdo a lo que se pide",
     image: "profile2.png",
   },
   {
